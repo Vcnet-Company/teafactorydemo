@@ -61,7 +61,7 @@ body a:hover{
     position: absolute;
     top: 26%;
     left: 37%;
-    color: #84904b;
+    color: rgb(141, 190, 4);
 }
 /*--top-nav--*/
 .top-nav {
@@ -121,7 +121,7 @@ nav.navbar.navbar-default {
   right: 0;
   bottom: 0;
   color:#fff;
-  background: #84904b;
+  background: rgb(141, 190, 4);
   -webkit-transform: scaleY(0);
   -o-transform: scaleY(0);
   -moz-transform: scaleY(0);
@@ -153,11 +153,11 @@ nav.navbar.navbar-default {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color: #fff;
-    background-color: #84904b;
+    background-color: rgb(141, 190, 4);
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
     color: #fff;
-    background-color: #84904B;
+    background-color: rgb(141, 190, 4);
 }
 /*--dropdown--*/
 ul.dropdown-menu li {
@@ -401,7 +401,7 @@ figure.effect-bubba:hover p {
 a.more {
     font-size: 1em;
     color: #000;
-	border: 3px double #84904b;
+	border: 3px double rgb(141, 190, 4);
 	position:relative;
 }
 .btn:after {
@@ -418,7 +418,7 @@ a.more {
 	height: 0;
 	top: 0;
 	left: 0;
-	background:#84904b;
+	background:rgb(141, 190, 4);
 }
 
 .btn-1b:hover,
@@ -437,7 +437,7 @@ a.more {
 }
 h3.title {
     font-size: 3.5em;
-    color: #84904B;
+    color: rgb(141, 190, 4);
     text-align: center;
     border-top: 3px double #D8D7D7;
     border-bottom: 3px double #D8D7D7;
@@ -450,7 +450,7 @@ h3.title {
 .srvc-img span.glyphicon {
     font-size: 2.2em;
     padding: 0.8em;
-    color: #899452;
+    color: rgb(141, 190, 4);
     border: 2px dotted #949292;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -518,7 +518,7 @@ h3.title {
     display: inline-block;
 }
 .footer-grid ul li a:hover {
-  color:#899452;
+  color:rgb(141, 190, 4);
 }
 .contact-grid ul li span {
   width: 15px;
@@ -530,7 +530,7 @@ h3.title {
 }
 .copy {
   text-align: center;
-  background:#899452;
+  background:rgb(141, 190, 4);
   padding:1.5em 0;
 }
 .copy p {
@@ -890,7 +890,7 @@ img.zoom-img {
 }
 .grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
 	margin-bottom:1em;
-	color: #84904B;
+	color: rgb(141, 190, 4);
 }
 .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
   border-top: none !important;
@@ -1396,7 +1396,7 @@ button.navbar-toggle {
     float:none;
 }
 nav.navbar.navbar-default {
-    background-color: #899452;
+    background-color: rgb(141, 190, 4);
     color: #fff;
 }
 .navbar-default .navbar-toggle .icon-bar {
@@ -1493,7 +1493,7 @@ h3.title {
     display: block;
 }
 a.dropdown-toggle.hvr-bounce-to-bottom.active {
-    background-color: #899452;
+    background-color: rgb(141, 190, 4);
 	color:#fff;
 }
 .baner.about-bnr {
